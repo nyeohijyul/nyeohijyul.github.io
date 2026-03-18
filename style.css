@@ -12,7 +12,8 @@ a { color: white; }
 #container {
   margin: auto;
   width: 720px;
-  padding: 100px;
+  padding: 80px;
+  padding-bottom: 30px;
   background-color: #b6aede;
 }
 .sectiondiv {
